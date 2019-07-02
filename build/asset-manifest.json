@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colour-transitionator/static/css/main.0853ebe8.chunk.css",
+    "main.js": "/colour-transitionator/static/js/main.1eaaf6ef.chunk.js",
+    "main.js.map": "/colour-transitionator/static/js/main.1eaaf6ef.chunk.js.map",
+    "runtime~main.js": "/colour-transitionator/static/js/runtime~main.d8142613.js",
+    "runtime~main.js.map": "/colour-transitionator/static/js/runtime~main.d8142613.js.map",
+    "static/js/2.a214b9dc.chunk.js": "/colour-transitionator/static/js/2.a214b9dc.chunk.js",
+    "static/js/2.a214b9dc.chunk.js.map": "/colour-transitionator/static/js/2.a214b9dc.chunk.js.map",
+    "index.html": "/colour-transitionator/index.html",
+    "precache-manifest.52d96c393ac9e915118ce1adb7f96c5c.js": "/colour-transitionator/precache-manifest.52d96c393ac9e915118ce1adb7f96c5c.js",
+    "service-worker.js": "/colour-transitionator/service-worker.js",
+    "static/css/main.0853ebe8.chunk.css.map": "/colour-transitionator/static/css/main.0853ebe8.chunk.css.map"
+  }
+}

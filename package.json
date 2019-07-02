@@ -2,6 +2,7 @@
   "name": "citadel-colour-transitionator",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://marbaez1714.github.io/colour-transitionator/",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
