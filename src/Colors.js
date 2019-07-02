@@ -82,7 +82,7 @@ export default function Colors(props) {
           onChange={e => setNumber(e.target.value)}
         />
         <button className="run-button" onClick={getColorRange}>
-          Run
+          Blend!
         </button>
       </div>
       <div className="transition">
